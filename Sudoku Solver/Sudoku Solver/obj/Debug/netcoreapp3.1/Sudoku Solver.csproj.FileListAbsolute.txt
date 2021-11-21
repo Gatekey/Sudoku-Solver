@@ -1,0 +1,13 @@
+D:\Microsoft Visual Studio\Projects\Sudoku Solver\Sudoku Solver\bin\Debug\netcoreapp3.1\Sudoku Solver.exe
+D:\Microsoft Visual Studio\Projects\Sudoku Solver\Sudoku Solver\bin\Debug\netcoreapp3.1\Sudoku Solver.deps.json
+D:\Microsoft Visual Studio\Projects\Sudoku Solver\Sudoku Solver\bin\Debug\netcoreapp3.1\Sudoku Solver.runtimeconfig.json
+D:\Microsoft Visual Studio\Projects\Sudoku Solver\Sudoku Solver\bin\Debug\netcoreapp3.1\Sudoku Solver.runtimeconfig.dev.json
+D:\Microsoft Visual Studio\Projects\Sudoku Solver\Sudoku Solver\bin\Debug\netcoreapp3.1\Sudoku Solver.dll
+D:\Microsoft Visual Studio\Projects\Sudoku Solver\Sudoku Solver\bin\Debug\netcoreapp3.1\Sudoku Solver.pdb
+D:\Microsoft Visual Studio\Projects\Sudoku Solver\Sudoku Solver\obj\Debug\netcoreapp3.1\Sudoku Solver.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\Projects\Sudoku Solver\Sudoku Solver\obj\Debug\netcoreapp3.1\Sudoku Solver.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\Projects\Sudoku Solver\Sudoku Solver\obj\Debug\netcoreapp3.1\Sudoku Solver.AssemblyInfo.cs
+D:\Microsoft Visual Studio\Projects\Sudoku Solver\Sudoku Solver\obj\Debug\netcoreapp3.1\Sudoku Solver.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Projects\Sudoku Solver\Sudoku Solver\obj\Debug\netcoreapp3.1\Sudoku Solver.dll
+D:\Microsoft Visual Studio\Projects\Sudoku Solver\Sudoku Solver\obj\Debug\netcoreapp3.1\Sudoku Solver.pdb
+D:\Microsoft Visual Studio\Projects\Sudoku Solver\Sudoku Solver\obj\Debug\netcoreapp3.1\Sudoku Solver.genruntimeconfig.cache
